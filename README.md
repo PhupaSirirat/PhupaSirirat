@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in Bangkok, Thailand<br>✉️ You can contact me at phupasirirat@gmail.com<br>🧠 I'm learning web developement and cloud services.<br>🤝 I'm open to collaborating on web development project.<br>⚡ Discord tag: pu1413
+🌍 I'm based in Bangkok, Thailand<br>✉️ You can contact me at phupasirirat@gmail.com<br>🧠 I'm learning data science and engineering.<br>🤝 I'm open to collaborating on web development or AI-Data project.
 
 
 ## 🌐 Socials:
